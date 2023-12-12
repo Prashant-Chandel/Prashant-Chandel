@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashant-Chandel
 - 👀 I’m interested in Android Devlopment as well as backend development.
-- 🌱 I’m currently learning  Kotlin.
+- 🌱 I am presently diving into advanced development practices related to contemporary technologies and focusing on enhancing application scalability..
 - 💞️ I’m looking to collaborate on ...
         IT technology
 - 📫 How to reach me ...
