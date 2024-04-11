@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
   
         - Different IT technologies
-        - Kotlin, Java
+        - Kotlin, Java ,Node JS,Python (under process as targeting AI)
         - Android SDK, Jetpack Compose, Material Design
         - Clean Architecture, MVVM, MVP
         - Network communication (Retrofit, Volley)
